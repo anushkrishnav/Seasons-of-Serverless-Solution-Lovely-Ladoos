@@ -1,0 +1,4 @@
+---
+azure_storage_connectionstring:"string"
+images_container_name:"images"
+source:"DataSet"
